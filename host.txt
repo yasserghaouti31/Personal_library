@@ -1,0 +1,7 @@
+https://wampserver.aviatechno.net/files/install/wampserver3.3.5_x64.exe
+https://www.youtube.com/watch?v=M2at7D-lciw
+
+steps to create the database : 
+1/ go to http://localhost/phpmyadmin username  : root with no possword
+2/ click on create database (name it library)
+3/go to import and select the library.sql location 
